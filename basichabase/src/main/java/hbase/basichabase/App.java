@@ -1,4 +1,4 @@
-package api.sampleApi;
+package hbase.basichabase;
 
 /**
  * Hello world!
